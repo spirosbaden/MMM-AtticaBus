@@ -1,8 +1,8 @@
 # MMM-AtticaBus
 
-**MMM-AtticaBus** is a [MagicMirror²](https://magicmirror.builders/) module for displaying real-time bus arrival information for public transportation in Attica, Greece, using the OASA telematics service.
+**MMM-AtticaBus** is a [MagicMirror²](https://magicmirror.builders/) module for displaying real-time **Athens bus** arrival information using the **OASA telematics** service.
 
-The module allows you to monitor specific bus stops and optionally filter arrivals by bus line.
+It is designed for monitoring **public transportation in Athens, Greece**, directly from a MagicMirror² smart mirror. The module supports multiple bus stops, specific bus lines, automatic updates, and a nearby-stop fallback when a requested bus is not currently available at the selected stop.
 
 ## Features
 
@@ -195,9 +195,9 @@ See the `LICENSE` file for details.
 
 # MMM-AtticaBus 🇬🇷
 
-Το **MMM-AtticaBus** είναι ένα module για το [MagicMirror²](https://magicmirror.builders/) που εμφανίζει σε πραγματικό χρόνο πληροφορίες για τις αφίξεις λεωφορείων των δημόσιων συγκοινωνιών της Αττικής, χρησιμοποιώντας την υπηρεσία τηλεματικής του ΟΑΣΑ.
+Το **MMM-AtticaBus** είναι ένα module για το [MagicMirror²](https://magicmirror.builders/) που εμφανίζει σε πραγματικό χρόνο τις **αφίξεις λεωφορείων της Αθήνας**, χρησιμοποιώντας την υπηρεσία **τηλεματικής του ΟΑΣΑ**.
 
-Το module επιτρέπει την παρακολούθηση συγκεκριμένων στάσεων και, προαιρετικά, το φιλτράρισμα των αφίξεων ανά γραμμή λεωφορείου.
+Έχει σχεδιαστεί για την παρακολούθηση των **δημόσιων συγκοινωνιών της Αθήνας και της Αττικής**, απευθείας από ένα Smart Mirror με MagicMirror². Το module υποστηρίζει πολλαπλές στάσεις, συγκεκριμένες γραμμές λεωφορείων, αυτόματη ενημέρωση και αναζήτηση κοντινής στάσης όταν το ζητούμενο λεωφορείο δεν είναι διαθέσιμο στην επιλεγμένη στάση.
 
 ## Χαρακτηριστικά
 
